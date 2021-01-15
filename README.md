@@ -16,3 +16,4 @@ __For REST API I used **json-server** which persists the data into a file__
 
 __For streaming I used **node-media-server** as a RMTP Server__
 
+__This App uses Google Authentication to authenticate a user__
