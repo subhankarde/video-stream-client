@@ -1,4 +1,4 @@
-# This a Streaming Client App built based on https://www.twitch.tv/ built using React
+# This is a Streaming Client App scaled down version of twitch.tv built using React and semantic-ui
 
 __I used the below libraries__
 1. axios
